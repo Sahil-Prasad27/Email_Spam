@@ -3,6 +3,12 @@
 This is a Machine Learning-based web app built with **Streamlit** that classifies whether a given text message is **Spam** or **Not Spam (Ham)** using Natural Language Processing and an XGBoost classifier.
 
 🔗 **Live Demo:** [https://spamsahil.streamlit.app/](https://spamsahil.streamlit.app/)
+<img width="1913" height="998" alt="image" src="https://github.com/user-attachments/assets/6d6f4085-c069-42ad-832c-cddfe24f2b90" />
+
+
+## App View 
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/c980ca13-6bc4-44ff-86fb-9af7d1c4db20" />
+
 
 ---
 
