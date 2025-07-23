@@ -1,6 +1,13 @@
 # 📩 Spam Message Classifier - Streamlit App
 
+
+
+
 This is a Machine Learning-based web app built with **Streamlit** that classifies whether a given text message is **Spam** or **Not Spam (Ham)** using Natural Language Processing and an XGBoost classifier.
+
+## Metric	Value
+## Accuracy	0.97
+## Precision	1.0
 
 🔗 **Live Demo:** [https://spamsahil.streamlit.app/](https://spamsahil.streamlit.app/)
 
