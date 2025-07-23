@@ -16,10 +16,10 @@ screen shorrts of overall model
 <img width="697" height="389" alt="image" src="https://github.com/user-attachments/assets/0e8fe659-66c7-4103-9fee-339f7ef5c878" />
 <img width="809" height="691" alt="image" src="https://github.com/user-attachments/assets/f513a417-7bc7-4d94-b21a-e17c24ab59e3" />
 <img width="718" height="406" alt="image" src="https://github.com/user-attachments/assets/941f16c2-fdff-4eb4-a6c3-0edc39e201af" />
-spam text 
+## spam text 
 <img width="575" height="465" alt="image" src="https://github.com/user-attachments/assets/cd809e07-1b18-40b9-a315-e38fa5e35c4a" />
 
-ham text 
+## ham text 
 <img width="558" height="453" alt="image" src="https://github.com/user-attachments/assets/1ad731ca-e2ff-4908-bfc3-0d98adcbe533" />
 ## PDF of over all code 
 [spamdetection.ipynb - Colab.pdf](https://github.com/user-attachments/files/21382843/spamdetection.ipynb.-.Colab.pdf)
